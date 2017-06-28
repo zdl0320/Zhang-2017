@@ -10,5 +10,5 @@ get the other components of gradient tensors and gravity anomaly through transfo
 code, please read the attached M file and as well as the called functions. For the mathematical formulas and parameters of the
 models, please have a look at the paper. 
 
-For more information about this code and if you have any enquiries or advices, please do not hesitate to contact us. 
+For more information about this code and if you have any queries or advices, please do not hesitate to contact us. 
 Email: zhangdl14@mails.jlu.edu.cn ; zhangdailei@hotmail.com
